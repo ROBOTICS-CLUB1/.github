@@ -35,11 +35,10 @@ These technologies form the foundation of our software development and embedded 
 ---
 
 ## Official Website
-
-🚧 **Coming Soon**  
-Our official Robotics Club website is currently under development.
+Check out our official website 👉 [here](https://robotics-club-platform.vercel.app/)
 
 ---
 
 **Interested in robotics?**  
-Follow our work here on GitHub and soon on our official website.
+Follow our work here on GitHub and on our official website.
+Also do reach out for project, collaboration or tech talk.
